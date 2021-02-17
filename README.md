@@ -1,7 +1,7 @@
-# My First Website
+# My First WebSite
 
-* This is the (somewhat) first (somewhat of a) website that I made as I (re)started my coding journey in May 2020!
-* Memories...
+* not technically first webSite, but coded for re-learning--purposes
+* lots of nostalgia
 
 ## Stack
 
